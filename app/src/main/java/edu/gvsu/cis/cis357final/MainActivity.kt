@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             CIS357FINALTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "CIS 357 FINAL",
+                        name = "CIS357 FINAL",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
